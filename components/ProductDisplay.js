@@ -43,7 +43,7 @@ app.component('product-display', {
         <button 
           class="button" 
           v-on:click="rmfromCart">
-          Remove from Cart
+          Remove it
         </button>
       </div>
     </div>
